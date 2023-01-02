@@ -1,5 +1,5 @@
 # 💫 About Me:
-PT:<br>Entuasiasta de games, e sou grande fã de World Of Warcraft (For the Alliance!).<br>Gosto de estar antenado em novas tecnologias, como Inteligência artificial.<br>Amo cachorros e adotei a Cacau, uma cachorrinha amorosa resgatada de abandono.<br><br>EN:<br>Game enthusiast, and I'm a big fan of World Of Warcraft (For the Alliance!).<br>I like to be aware of new technologies, such as Artificial Intelligence.<br>I love dogs and I adopted Cacau, a loving puppy rescued from abandonment.
+PT:<br>Entuasiasta de games, sou grande fã de World Of Warcraft (For the Alliance!).<br>Gosto de estar antenado em novas tecnologias, como Inteligência artificial.<br>Amo cachorros e adotei a Cacau, uma cachorrinha amorosa resgatada de abandono.<br><br>EN:<br>Game enthusiast, I'm a big fan of World Of Warcraft (For the Alliance!).<br>I like to be aware of new technologies, such as Artificial Intelligence.<br>I love dogs and I adopted Cacau, a loving puppy rescued from abandonment.
 
 
 ## 🌐 Socials:
