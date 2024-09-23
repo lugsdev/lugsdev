@@ -8,7 +8,7 @@ PT:<br>Entuasiasta de games, sou grande fã de World Of Warcraft (For the Allian
 
 <div>
 <a href="https://github.com/lugsdev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugsdev&layout=compact&langs_count=7"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugsdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
